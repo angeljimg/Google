@@ -1,0 +1,44 @@
+.cabeza {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.link {
+    display: inline-block;
+    padding: 15px;
+    color: black;
+}
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.img1-footer{
+    width: 2%;
+}
+.img2-footer{
+    width: 2%;
+    border-radius: 100%;
+}
+#logo {
+    width: 20%;
+}
+#search {
+    
+}
+#lucky {
+
+}
+.btn-search {
+
+}
+#input-search {
+
+}
+.posicion:hover {
+    color: antiquewhite;
+    background-color: aquamarine;
+}
+.footer-link {
+    
+}
